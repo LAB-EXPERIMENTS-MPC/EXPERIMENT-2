@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.LoginApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#6272A4</item>
+        <item name="colorPrimaryVariant">#50FA7B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#50FA7B</item>
+        <item name="colorSecondaryVariant">#50FA7B</item>
+        <item name="colorOnSecondary">#000000</item>
+    </style>
+</resources>
